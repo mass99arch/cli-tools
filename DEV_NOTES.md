@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Updated dependencies to latest stable versions
 - Removed unused variable declarations
+
+## 2026-03-23
+- Resolved deprecation warnings
