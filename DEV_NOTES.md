@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Resolved deprecation warnings
+
+## 2026-03-30
+- Added basic retry logic for network requests
+- Pinned dependency versions for reproducibility
+- Checked for memory leaks in long-running path
